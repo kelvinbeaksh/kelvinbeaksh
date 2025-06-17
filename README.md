@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile!! I am a curious and driven developer passionate about building clean, user-focused software. I enjoy working across the stack, with a special interest in frontend architecture, system design, and tooling that help to improve lives.
+Welcome to my profile!! I am a curious and driven developer passionate about building clean, user-focused software. I enjoy working across the stack, with a special interest in frontend architecture, system design, and tooling that helps to improve lives.
 
 <a href="https://www.linkedin.com/in/kelvin-beak-27a147177"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:kelvinbeaksh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
