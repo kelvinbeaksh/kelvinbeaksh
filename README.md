@@ -38,5 +38,3 @@ Welcome to my profile!! I am a curious and driven developer passionate about bui
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sheen4n&count_private=true&show_icons=true&include_all_commits=true)
-
